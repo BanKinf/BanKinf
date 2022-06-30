@@ -2,7 +2,7 @@
 
 <?php
 
-namespace AshBaker;
+namespace BanKinf;
 
 class About extends Me
 {
@@ -10,8 +10,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Founder'         
+                'company' => 'FreeLancer',
+                'position' => 'BacKend Developer'         
             ]
         ];
     }
@@ -19,14 +19,7 @@ class About extends Me
     public function getDailyKnowledge(): array
     {
         return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Vuejs::class,
-            Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
+            
         ];
     }
 
