@@ -19,7 +19,18 @@ class About extends Me
     public function getDailyKnowledge(): array
     {
         return [
+            Languages: {
+             Php::class,
+             Javascript::class,
+            },
             
+            Frameworks: {
+            
+            },
+            
+            Tools: {
+            
+            }
         ];
     }
 
