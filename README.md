@@ -36,9 +36,9 @@ class About extends Me
             },
             
             Tools: {
+             VSCode::class,
              Git::class,
-             SQL::class,
-             
+             Postman::class,
             }
         ];
     }
