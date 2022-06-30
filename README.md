@@ -22,7 +22,7 @@ class About extends Me
             Languages: {
              Php::class,
              Javascript::class,
-             node::class,
+             Node::class,
              Python::class,
              Golang::class,
              Rust::class
