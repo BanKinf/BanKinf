@@ -29,7 +29,10 @@ class About extends Me
             },
             
             Frameworks: {
-                
+                React::class,
+                Laravel::class,
+                Django::class,
+                Next.js::class
             },
             
             Tools: {
