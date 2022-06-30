@@ -22,7 +22,7 @@ class About extends Me
             Languages: {
              Php::class,
              Javascript::class,
-             Node::class,
+             NodeJs::class,
              Python::class,
              Golang::class,
              Rust::class
@@ -32,11 +32,13 @@ class About extends Me
              React::class,
              Laravel::class,
              Django::class,
-             Next.js::class
+             NextJs::class
             },
             
             Tools: {
-            
+             Git::class,
+             SQL::class,
+             
             }
         ];
     }
