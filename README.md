@@ -30,11 +30,14 @@ class About extends Me
             },
             
             Frameworks: {
-             React::class,
              Laravel::class,
              Django::class,
              NextJs::class
             },
+            
+            Libs: {
+             React::class,
+            }
             
             Tools: {
              VSCode::class,
