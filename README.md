@@ -38,7 +38,7 @@ class About extends Me
             
             Libs: {
              React::class,
-             JWT::class,
+             Jwt::class,
             }
             
             Tools: {
