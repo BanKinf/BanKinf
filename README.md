@@ -26,7 +26,8 @@ class About extends Me
              NodeJs::class,
              Python::class,
              Golang::class,
-             Rust::class
+             Rust::class,
+             Sql::class
             },
             
             Frameworks: {
