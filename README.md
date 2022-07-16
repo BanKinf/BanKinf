@@ -37,12 +37,15 @@ class About extends Me
             
             Libs: {
              React::class,
+             JWT::class,
             }
             
             Tools: {
              VSCode::class,
+             Figma::class,
              Git::class,
              Postman::class,
+             Insomnia::class,
             }
         ];
     }
